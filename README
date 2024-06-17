@@ -1,0 +1,4 @@
+The code contains the python code for predicting Heart Diseases in patients. The dataset I have used is the UCI Heart Disease Data and it can be viewed at the follwoing website, 
+https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data.
+
+Various Machine Learning Models have been implemented which compute with different accuracies. I have also handles missing values and done some form of Exploratory Data Analysis.
